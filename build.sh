@@ -2,7 +2,7 @@
 
 # Step 1: 安装依赖
 echo "Installing dependencies..."
-sudo yum install -y gcc g++ cmake make
+sudo yum install -y gcc g++ cmake git make
 
 # Step 2: 克隆仓库
 echo "Cloning ign-cmake0 repository..."
